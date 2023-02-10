@@ -6,4 +6,4 @@
 # HOST-SUFFIX: 1
 # TOTAL: 2
 HOST-SUFFIX,scmp.com,scmp
-HOST-KEYWORD,scmp,SCMP
+HOST-KEYWORD,scmp
