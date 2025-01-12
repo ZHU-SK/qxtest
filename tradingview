@@ -1,5 +1,5 @@
 # TradingView 分流规则
-DOMAIN-SUFFIX,tradingview.com
-DOMAIN-SUFFIX,aws.tradingview.com
-DOMAIN-SUFFIX,tradingview-widget.com
-DOMAIN-SUFFIX,tradingview.medium.com
+HOST-SUFFIX,tradingview.com
+HOST-SUFFIX,aws.tradingview.com
+HOST-SUFFIX,tradingview-widget.com
+HOST-SUFFIX,tradingview.medium.com
